@@ -1,12 +1,11 @@
-x=3
-y=2
-z=2
+a=78
+b=20
+c=5
 
-a=((y**x)+z)/2
-b=a%2
+u=((y**x)+z)/2
+v=a%2
 
- print(" tui on hoia jabi")
-print("Ami off hoia jamu")
+ print(" hello")
+print("hi")
 
-
-print(a)
+print(u)
