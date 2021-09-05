@@ -1,11 +1,7 @@
-a=78
-b=20
-c=5
-
-u=((y**x)+z)/2
-v=a%2
-
- print(" hello")
-print("hi")
-
-print(u)
+'''
+Type casting AS STRING
+'''
+num1=(input("Enter the 1st number:"))
+num2=(input("Enter the 2nd number:"))
+result=num1+num2
+print(result)
